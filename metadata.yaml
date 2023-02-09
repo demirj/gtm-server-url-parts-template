@@ -1,0 +1,5 @@
+homepage: "https://www.demirjasarevic.com/"
+documentation: "https://github.com/demirj/gtm-server-url-parts-template/blob/main/README.md"
+versions:
+  - sha: 8f63b217b5186ce9af40e4ea2558df260c60000b
+    changeNotes: Initial release.
