@@ -14,6 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "URL Parts",
+  "categories": ["TAG_MANAGEMENT"],
   "description": "Return specific component of URL.",
   "containerContexts": [
     "SERVER"
